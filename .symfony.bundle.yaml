@@ -1,19 +1,24 @@
 branches:
-    - "2.5.x"
-    - "2.6.x"
-    - "2.7.x"
-    - "2.8.x"
-    - "2.9.x"
-    - "2.10.x"
-    - "2.11.x"
-    - "2.12.x"
-    - "2.13.x"
-    - "2.14.x"
-    - "2.15.x"
-    - "2.16.x"
+    - 2.5.x
+    - 2.6.x
+    - 2.7.x
+    - 2.8.x
+    - 2.9.x
+    - 2.10.x
+    - 2.11.x
+    - 2.12.x
+    - 2.13.x
+    - 2.14.x
+    - 2.15.x
+    - 2.16.x
 maintained_branches:
-    - "2.15.x"
-    - "2.16.x"
-doc_dir: { "2.12.x": "docs/", "2.13.x": "docs/en/" }
-current_branch: "2.15.x"
-dev_branch: "2.16.x"
+    - 2.15.x
+    - 2.16.x
+doc_dir:
+    2.12.x: docs/
+    2.13.x: docs/en/
+    2.14.x: docs/en/
+    2.15.x: docs/en/
+    2.16.x: docs/en/
+current_branch: 2.15.x
+dev_branch: 2.16.x
